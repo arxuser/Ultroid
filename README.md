@@ -1,9 +1,10 @@
 <p align="center">
   <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
 </p>
-<h1 align="center">
-  <b>Ultroid - UserBot</b>
-</h1>
+<h1 align="center"><img src="./resources/extras/geez.gif" width="35px">AR ft Ultroid Userbot<img src="./resources/extras/geez.gif" width="35px"></h1>
+
+
+
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
 
